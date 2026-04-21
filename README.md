@@ -70,7 +70,7 @@ I wanted to understand how real business dashboards are built and how to convert
 
 <img width="913" height="530" alt="Screenshot 2026-04-21 144202" src="https://github.com/user-attachments/assets/b67584e9-cf88-493d-82ba-a11ce9ce3119" />
 <img width="913" height="530" alt="Screenshot 2026-04-21 144202" src="https://github.com/user-attachments/assets/59be49be-3c8c-4fc0-8088-40b9c2e956a2" />
-<img width="913" height="530" alt="Screenshot 2026-04-21 144202" src="https://github.com/user-attachments/assets/6d8c6420-5809-41a2-b9be-396ad2dda187" />
+
 
 ---
 
