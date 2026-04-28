@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard (Power BI)
+# Sales Dashboard (Power BI)
 
 ## 👀 About this project
 
@@ -12,7 +12,7 @@ I created this project mainly to practice:
 
 ---
 
-## 🔥 What I built
+##  What I built
 
 In this dashboard, you can see:
 
@@ -31,7 +31,7 @@ So you can interact and explore the data easily.
 
 ---
 
-## 🗂️ Data used
+##  Data used
 
 I used a sample sales dataset with:
 
@@ -43,14 +43,14 @@ I used a sample sales dataset with:
 
 ---
 
-## 🛠️ Tools used
+##  Tools used
 
 * Power BI
 * DAX (basic calculations)
 
 ---
 
-## 📊 Key observations
+##  Key observations
 
 * East region is giving slightly higher sales
 * Accessories category has more profit compared to others
@@ -58,13 +58,13 @@ I used a sample sales dataset with:
 
 ---
 
-## 🎯 Why I did this
+##  Why I did this
 
 I wanted to understand how real business dashboards are built and how to convert raw data into useful insights.
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 <img width="913" height="530" alt="Screenshot 2026-04-21 144202" src="https://github.com/user-attachments/assets/b0318f35-00ae-498a-bafb-a8a3daa3a087" />
 
@@ -74,7 +74,7 @@ I wanted to understand how real business dashboards are built and how to convert
 
 ---
 
-## 💬 Final note
+##  Final note
 
 Still learning and improving. Suggestions are welcome!
 
